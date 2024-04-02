@@ -52,16 +52,3 @@ allure generate allure-results --clean -o allure-report
 allure serve allure-results
 ```
 ---
-
-### Generated Reports
-![img](https://user-images.githubusercontent.com/41513761/221497380-0458ecba-fcf8-471e-8851-b9f79e697dd3.png)
-![img_1](https://user-images.githubusercontent.com/41513761/221497396-42ba53c5-62bd-4e3b-8ae8-7d7ae7a1b975.png)
-
----
-
-#### Automation Video
-https://user-images.githubusercontent.com/41513761/221518110-399e2f59-6f21-4cb5-a703-078cc338d062.mp4
-
-
-#### Feedback
-If you have any feedback, please reach out to me at md.mostafa.akash@gmail.com
