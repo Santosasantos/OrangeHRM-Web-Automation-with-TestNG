@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="testrunner.PIMTestRunner" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-02-29T04:21:48" hostname="santo" time="19.472">
+  <properties/>
+  <testcase name="addSecondEmployee" classname="testrunner.PIMTestRunner" time="19.472"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
