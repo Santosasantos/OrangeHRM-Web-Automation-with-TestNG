@@ -1,4 +1,4 @@
-# Selenium-TestNG Web Automation
+# OrangeHRM Web Automation with TestNG
 
 ---
 This is a web automation project that automates the testing of the [OrangeHRM Demo website](https://opensource-demo.orangehrmlive.com/web/index.php/auth/login)    using Selenium WebDriver and Java.
